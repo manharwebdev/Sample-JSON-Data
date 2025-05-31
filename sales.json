@@ -1,0 +1,22 @@
+[
+  {
+    "product": "T-shirt",
+    "unitsSold": 120,
+    "pricePerUnit": 20
+  },
+  {
+    "product": "Jeans",
+    "unitsSold": 80,
+    "pricePerUnit": 50
+  },
+  {
+    "product": "Shoes",
+    "unitsSold": 60,
+    "pricePerUnit": 70
+  },
+  {
+    "product": "Hats",
+    "unitsSold": 150,
+    "pricePerUnit": 15
+  }
+]
