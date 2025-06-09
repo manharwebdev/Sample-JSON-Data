@@ -55,7 +55,7 @@ sales-report-generator/
   {
     "product": "Hats",
     "unitsSold": 150,
-    "pricePerUnit": 15
+    "pricePerUnit": 14
   }
 ]
 
