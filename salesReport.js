@@ -26,3 +26,4 @@ salesData.forEach((item) => {
 console.log('-----------------------');
 console.log(`💰 Total Revenue: $${totalRevenue}`);
 console.log(`🏆 Top Product: ${topProduct} ($${maxRevenue})`);
+console.log('-----------------------');
